@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Yu-Hsuan (Teresa) 
-#### I'm currently pursuing my Master's degree in Computer Science at Stevens Institute of Technology
-Before enrolloing Stevens as a graduate student, I spent over 4 years working as an IT support analyst at Qualcomm. About a year ago, I realized my desire to learn more and immerse myself in the field of information technology. 
+#### I am a System Analyst focused on developing and maintaining ERP systems by enhancing the functionality and ensuring optimal performance
+I hold a Master's degree in Computer Science from Stevens Institute of Technology and previously worked as an IT Support Anaylst at Qualcomm. My academic background also includes a Bachelor's degree in Bioengineering.
 
-**Skills**: Java, Python, SQL, Linux, HTML, CSS, JavaScript, Node.js, Express.js, React.js, APIs, MongoDB, GitHub, and PowerShell
+**Skills**: Java, Python, SQL, Linux, HTML, CSS, JavaScript, Node.js, Express.js, React.js, APIs, MongoDB, GitHub, Spring Boot and PowerShell
 
-- 🔭 I’m currently working on seeking job opportunities within the fields of cybersecurity, software, and information technology. 
-- 🌱 I have completed the learning in [Web Development](https://www.udemy.com/course/the-complete-web-development-bootcamp/) and have built up my own [portfolio](https://tehuang.github.io/Portfolio/). I am also actively learning [React](https://www.udemy.com/course/react-tutorial-and-projects-course/) from Udemy.
+- 🔭 I am currently expanding my expertise by learning Spring Boot and plan to delve into Spring Boot Security soon
+- 🌱 I aim to connect these skills and knowledge areas to build a more comprehensive understanding of software development
 - 📫 How to reach me: teresayhhuang@gmail.com 
 - ⚡ Fun fact: I love penguins and outdoor activities! I've tried flying a small airplane once and hold a certificate for piloting a yacht. Additionally, I also have experience in scuba diving and surfing. 
 
